@@ -1,0 +1,25 @@
+{
+    "activeFile": "map.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "E:/pyt/pythonProject/pythonProject17_pygame_test/xox/free-icon-wall-698633.tsx": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 0.5958705357142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 643.596179059749,
+                "y": 379.2770181681964
+            }
+        }
+    },
+    "openFiles": [
+        "map.json"
+    ],
+    "project": "",
+    "recentFiles": [
+        "map.json"
+    ]
+}
